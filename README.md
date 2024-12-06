@@ -1,4 +1,4 @@
-# aws-resource-auditor-v2# aws-resource-auditor-v2
+# aws-resource-auditor-v2.3
 
 ## Overview
 `aws-resource-auditor-v2` is a tool designed to audit AWS resources across multiple regions and services. It generates detailed reports in JSON and Excel formats.
