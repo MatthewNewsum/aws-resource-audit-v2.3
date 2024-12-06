@@ -4,6 +4,6 @@ from .connection import check_aws_connection
 
 __all__ = [
     'AWSAuditor',
-    'ReportGenerator',
-    'check_aws_connection'
+    'check_aws_connection',
+    'ReportGenerator'
 ]

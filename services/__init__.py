@@ -8,12 +8,12 @@ from .dynamodb import DynamoDBService
 from .bedrock import BedrockService
 
 __all__ = [
-    'EC2Service',
-    'RDSService',
-    'VPCService',
-    'IAMService',
-    'S3Service',
-    'LambdaService',
+    'BedrockService',
     'DynamoDBService',
-    'BedrockService'
+    'EC2Service',
+    'IAMService',
+    'LambdaService',
+    'RDSService',
+    'S3Service',
+    'VPCService'
 ]

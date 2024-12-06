@@ -8,10 +8,10 @@ from .exceptions import (
 )
 
 __all__ = [
+    'AuthenticationError',
     'AWSAuditorError',
     'RegionError',
-    'ServiceError',
-    'AuthenticationError',
+    'ReportGenerationError',
     'ResourceAccessError',
-    'ReportGenerationError'
+    'ServiceError'
 ]
