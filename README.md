@@ -1,7 +1,7 @@
 # aws-resource-auditor-v2.3
 
 ## Overview
-`aws-resource-auditor-v2` is a tool designed to audit AWS resources across multiple regions and services. It generates detailed reports in JSON and Excel formats.
+`aws-resource-auditor-v2.3` is a tool designed to audit AWS resources across multiple regions and services. It generates detailed reports in JSON and Excel formats.
 
 ## Features
 - Audits multiple AWS services including EC2, RDS, VPC, IAM, S3, Lambda, DynamoDB, and Bedrock.
@@ -15,7 +15,7 @@
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/aws-resource-auditor-v2.git
+    git clone https://github.com/MatthewNewsum/aws-resource-audit-v2.3.git
     cd aws-resource-auditor-v2
     ```
 
